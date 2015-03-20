@@ -32,7 +32,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="0" selection-start="1966" selection-end="1966" vertical-scroll-proportion="0.39673278" vertical-offset="510" max-vertical-offset="5287">
+            <state line="248" column="217" selection-start="15788" selection-end="15788" vertical-scroll-proportion="0.7502917" vertical-offset="3573" max-vertical-offset="5593">
               <folding />
             </state>
           </provider>
@@ -41,7 +41,7 @@
       <file leaf-file-name="style-blue3.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style-blue3.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5373" column="43" selection-start="132494" selection-end="132494" vertical-scroll-proportion="0.0" vertical-offset="90885" max-vertical-offset="112880">
+            <state line="5372" column="0" selection-start="132422" selection-end="132422" vertical-scroll-proportion="0.0" vertical-offset="90885" max-vertical-offset="112880">
               <folding />
             </state>
           </provider>
@@ -314,13 +314,18 @@
       <created>1426884055333</created>
       <updated>1426884055333</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="CW-141&#10;">
+      <created>1426892064208</created>
+      <updated>1426892064208</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -335,7 +340,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -373,7 +377,8 @@
     <MESSAGE value="Actualice competencias" />
     <MESSAGE value="CNAME update" />
     <MESSAGE value="CW-141" />
-    <option name="LAST_COMMIT_MESSAGE" value="CW-141" />
+    <MESSAGE value="CW-141&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="CW-141&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -450,17 +455,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4735" column="2" selection-start="94611" selection-end="94611" vertical-scroll-proportion="0.35220838" vertical-offset="80184" max-vertical-offset="105553" />
+        <state line="4735" column="2" selection-start="94611" selection-end="94611" vertical-scroll-proportion="0.35220838" vertical-offset="80184" max-vertical-offset="105553">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/buttons.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="27013" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="27013">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/animate.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="883" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="883">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
@@ -470,34 +481,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/jquery.bxslider.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="193" column="14" selection-start="3662" selection-end="3672" vertical-scroll-proportion="0.66819745" vertical-offset="2699" max-vertical-offset="3570" />
+        <state line="193" column="14" selection-start="3662" selection-end="3672" vertical-scroll-proportion="0.66819745" vertical-offset="2699" max-vertical-offset="3570">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/lightbox.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="194" column="12" selection-start="3445" selection-end="3455" vertical-scroll-proportion="0.5706085" vertical-offset="2801" max-vertical-offset="3672" />
+        <state line="194" column="12" selection-start="3445" selection-end="3455" vertical-scroll-proportion="0.5706085" vertical-offset="2801" max-vertical-offset="3672">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/preload.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="896" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="896">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/slidebars.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="185" column="149" selection-start="3506" selection-end="3510" vertical-scroll-proportion="0.7072331" vertical-offset="2529" max-vertical-offset="3400" />
+        <state line="185" column="149" selection-start="3506" selection-end="3510" vertical-scroll-proportion="0.7072331" vertical-offset="2529" max-vertical-offset="3400">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style-blue3.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5373" column="43" selection-start="132494" selection-end="132494" vertical-scroll-proportion="0.0" vertical-offset="90885" max-vertical-offset="112880">
+        <state line="5372" column="0" selection-start="132422" selection-end="132422" vertical-scroll-proportion="0.0" vertical-offset="90885" max-vertical-offset="112880">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="0" selection-start="1966" selection-end="1966" vertical-scroll-proportion="0.39673278" vertical-offset="510" max-vertical-offset="5287">
+        <state line="248" column="217" selection-start="15788" selection-end="15788" vertical-scroll-proportion="0.7502917" vertical-offset="3573" max-vertical-offset="5593">
           <folding />
         </state>
       </provider>
