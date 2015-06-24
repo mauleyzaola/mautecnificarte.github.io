@@ -1,0 +1,135 @@
+/* DEJAVU - black */
+
+.wp-pagenavi .current,.paged-navigation .current,#fancy_search,
+body,body>.multibg>.multibg,#footer,.partial_gradient_slide .slide_overlay,.overlay_slide .slide_overlay,
+#primary_menu,.jqueryslidemenu ul li ul,.jqueryslidemenu ul li a:hover,.jqueryslidemenu ul li:hover a,.blog_tabs a.current,
+.button_link,.fancy_button,#searchsubmit,#submit,.cluetip-default,
+.titled_box_title,.colored_box,.dropcap4,.pullquote4,.highlight,
+.tabs_button a.current,.fancy_header span,.minimal_table th{/*:Color Scheme*/
+background-color:#222222;}
+h1,.intro_title,.post_more_link_a,.fancy_link_a,cite,cite a,.post_title a,
+a:hover,.fancy_link,.dropcap2,.pullquote3,.highlight2,h5{/*:Color Scheme*/
+color:#222222;}
+.wp-pagenavi .current,.paged-navigation .current,
+.blog_tabs a.current,.post_more_link_arrow,.fancy_link_arrow,
+.button_link,.fancy_button,#searchsubmit,#submit,.cluetip-default,.cluetip-default .cluetip-arrows,
+.titled_box_title,.colored_box,.dropcap4,.pullquote4,.highlight,
+.tabs_button a.current,.fancy_header span,.minimal_table th{/*:Color Scheme*/
+border-color:#222222;}
+.widget_archive li,.widget_categories li,.widget_links li,.widget_nav_menu li,.widget_pages li,.mysite_subnav_widget li,.widget_recent_entries li,
+.contact_widget_name,.contact_widget_phone,.contact_widget_email,.mysite_twitter_widget li,.recentcomments,
+.toggle,.toggle_accordion,.active,.toggle_frame .toggle,.toggle_frame .toggle_accordion,.toggle_frame .active,
+.fancy_list .arrow_list,.fancy_list .bullet_list,.fancy_list .check_list,.fancy_list .circle_arrow,.fancy_list .triangle_arrow,.fancy_list .comment_list,.fancy_list .minus_list,.fancy_list .plus_list,.fancy_list .star_list,.sitemap_list li,
+blockquote,.download_link,.email_link,.twitter_link,.dropcap,.dropcap3,.tabs_vertical li.current span, .featured_tabs li.current_page_item span{/*:Icon Sprite*/ 
+background-image:url(black/custom_sprite_222222.png);}
+
+
+/*:General Typography ~*~*/
+body{/*:Body Font */
+color:#666;font-size:12px;font-weight:normal;font-style:normal;font-family:"Helvetica Neue",Arial,sans-serif;}
+h1{/*:h1 Font*/ 
+/*color:#999@;*/font-size:36px;font-weight:normal;font-style:normal;font-family:dejavu;}
+h2{/*:h2 Font*/ 
+color:#777;font-size:30px;font-weight:normal;font-style:normal;font-family:dejavu;}
+h3{/*:h3 Font*/ 
+color:#777;font-size:24px;font-weight:normal;font-style:normal;font-family:dejavu;}
+h4{/*:h4 Font*/ 
+color:#444;font-size:16px;font-weight:normal;font-style:normal;font-family:dejavu;}
+h5{/*:h5 Font*/ 
+/*color:#444@;*/font-size:14px;font-weight:normal;font-style:normal;font-family:dejavu;}
+h6{/*:h6 Font*/ 
+color:#aaa;font-size:10px;font-weight:normal;font-style:normal;font-family:inherit;}
+a{/*:Link */
+color:#888;text-decoration:none;}
+a:hover{/*:Link Hover */
+/*color:#aaa@;*/text-decoration:underline;}
+/*:Typo End ~*~*/
+
+
+/*:Body ~*~*/
+body{/*:Body Background */
+background-image:none;background-color:#ddd;background-repeat:repeat;background-attachment:scroll;background-position:center top;}
+/*:Body End ~*~*/
+
+
+/*:Header ~*~*/
+.logo a{/*:Logo Font */
+color:#888;font-size:34px;font-weight:normal;font-style:normal;font-family:dejavu;}
+/*:Header End ~*~*/
+
+
+/*:Menu ~*~*/
+.jqueryslidemenu a{/*:Menu Font */
+color:#eee;font-size:12px;font-weight:normal;font-style:normal;font-family:inherit;}
+#primary_menu{/*:Menu Background */
+background-image:url(black/menu_overlay.png);/*background-color:transparent@;*/background-repeat:repeat-x;background-attachment:scroll;background-position:0 -2px;}
+/*:Menu End ~*~*/
+
+
+/*:Intro ~*~*/
+#intro .intro_title{/*:Intro Title Font */ 
+color:#888;font-size:36px;font-weight:normal;font-style:normal;font-family:dejavu;}
+#intro .teaser{/*:Intro Description Font */
+color:#aaa;font-size:16px;font-weight:normal;font-style:normal;font-family:dejavu;}
+#slider_module+#intro h3{/*:Call to Action Font*/ 
+color:#888;font-size:18px;font-weight:normal;font-style:normal;font-family:dejavu;}
+#breadcrumbs,#breadcrumbs a{/*:Breadcrumbs Font */
+color:#ccc;font-size:9px;font-weight:normal;font-style:normal;font-family:inherit;}
+#intro,#slider_module{/*:Intro Background */
+/*background-image:inherit@;*/background-color:#fff;background-repeat:repeat;background-attachment:scroll;background-position:center top;}
+/*:Intro End ~*~*/
+
+
+/*:Main Content ~*~*/
+#content{/*:Main Content Background */
+background-image:none;background-color:#fff;background-repeat:repeat;background-attachment:scroll;background-position:center top;}
+#sidebar .widgettitle{/*:Sidebar Titles Font */
+color:#888;font-size:22px;font-weight:normal;font-style:normal;font-family:dejavu;}
+/*:Main End ~*~*/
+
+
+/*:Outro ~*~*/
+#outro,#outro a{/*:Outro Font */
+color:#888;font-size:16px;font-weight:normal;font-style:normal;font-family:dejavu;}
+#outro{/*:Outro Background */
+/*background-image:inherit@;*/background-color:#fff;background-repeat:repeat;background-attachment:scroll;background-position:center top;}
+/*:Outro End ~*~*/
+
+
+/*:Footer ~*~*/
+#footer{/*:Footer Font */
+color:#ddd;font-size:11px;font-weight:normal;font-style:normal;font-family:inherit;}
+#footer .widgettitle{/*:Footer Titles Font */
+color:#eee;font-size:12px;font-weight:normal;font-style:normal;font-family:inherit;}
+#footer a{/*:Footer Links */
+color:#ddd;text-decoration:none;}
+#footer a:hover{/*:Footer Link Hover */
+color:#fff;text-decoration:none;}
+#footer{/*:Footer Background */
+/*background-image:none@;*//*background-color:inherit@;*/background-repeat:repeat;background-attachment:scroll;background-position:center top;}
+/*:Footer End ~*~*/
+
+
+/*:Sub Footer ~*~*/
+#sub_footer,#sub_footer a{/*:Sub Footer Font */
+color:#999;font-size:9px;font-weight:normal;font-style:normal;font-family:inherit;}
+#sub_footer a:hover{/*:Sub Footer Link Hover */
+color:#bbb;text-decoration:none;}
+#sub_footer{/*:Sub Footer Background */
+background-image:none;background-color:transparent;background-repeat:repeat-x;background-attachment:scroll;background-position:center top;}
+/*:Sub Footer End ~*~*/
+
+
+/*:Misc ~*~*/
+.toggle a,.toggle_accordion a{/*:Toggle Title Font*/ 
+color:#888;font-size:16px;font-weight:normal;font-style:normal;font-family:dejavu;}
+.slide_title{/*:Slide Title Font */ 
+color:#888;font-size:36px;font-weight:normal;font-style:normal;font-family:dejavu;}
+#content .teaser{/*:Content Teaser Font */ 
+color:#aaa;font-size:16px;font-weight:normal;font-style:normal;font-family:dejavu;}
+/*:Misc End ~*~*/
+
+
+/* Custom CSS */
+.post_excerpt{color:#999;}
+.comment-text{color:#888;}
